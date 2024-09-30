@@ -1,0 +1,22 @@
+{
+  "name": "cumulate",
+  "version": "1.0.0",
+  "description": "Cumulate placeholder for NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cumulatehq/cumulate-npm.git"
+  },
+  "keywords": [
+    "cumulate"
+  ],
+  "author": "Tejas Hosangadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cumulatehq/cumulate-npm/issues"
+  },
+  "homepage": "https://github.com/cumulatehq/cumulate-npm#readme"
+}
